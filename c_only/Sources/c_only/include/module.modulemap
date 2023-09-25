@@ -1,0 +1,4 @@
+module c_only [extern_c] {
+  header "c_only.h"
+  export *
+}
